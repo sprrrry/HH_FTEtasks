@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AVR Projects for Arduino
 
 This repository contains solutions for various tasks implemented for AVR microcontrollers using avr-gcc and Makefiles. The projects are written in pure C at the bare-metal level without using the Arduino library.
@@ -13,6 +12,3 @@ This repository contains solutions for various tasks implemented for AVR microco
 4. **Task 4**: Build a system with two Arduino boards communicating over SPI. Board A sends a pair of numbers (x, y) to Board B, which performs an arithmetic operation based on y and returns the result.
     - **Bonus**: Implement an ACK/NACK mechanism for SPI transactions to handle invalid commands and edge cases.
 
-=======
-# HH_FTEtasks
->>>>>>> 946f1b7cbab5e1581ba171eb0daf794ccece52cb
